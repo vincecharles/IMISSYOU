@@ -2,17 +2,17 @@
 const library = [
     {
       title: 'The Road Ahead',
-      author: 'Bill Gates',
+      author: 'Vince de Guzman',
       status: { own: true, reading: false, read: false },
     },
     {
-      title: 'Steve Jobs',
-      author: 'Walter Isaacson',
+      title: 'Facebook',
+      author: 'Steve Jobs',
       status: { own: true, reading: false, read: false },
     },
     {
       title: 'Mockingjay',
-      author: 'Suzanne Collins',
+      author: 'Erika Faye',
       status: { own: true, reading: false, read: false },
     },
   ];

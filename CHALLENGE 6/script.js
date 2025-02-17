@@ -20,5 +20,5 @@ function calculator(num1, num2, operator) {
     return result;
   }
   
-  calculator(3, 4, '*'); // returns 12
+  calculator(6, 2, '*');
   

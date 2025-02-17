@@ -26,7 +26,6 @@ const y = Math.floor(Math.random() * 50 + 1);
 // const rmOutput = `${x} % ${y} = ${rm}`;
 // console.log(rmOutput);
 
-// For all the above operations, the output should be displayed in the following format:
 
 const output = [
 	`${x} + ${y} = ${x + y}`,
